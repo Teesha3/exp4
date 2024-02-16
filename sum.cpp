@@ -2,7 +2,7 @@
  using namespace std;
 
  int main(){
-    cout<<"plus"<<endl;
+    cout<<"PLUS"<<endl;
     int a,b,c;
 
     cout<<"enter 2 nums"<<endl;
